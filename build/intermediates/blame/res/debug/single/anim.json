@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\build\\intermediates\\res\\merged\\debug\\anim\\imageview_rotate.xml",
+        "source": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\res\\anim\\imageview_rotate.xml"
+    },
+    {
+        "merged": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "F:\\Android_AS\\AS_workplace\\MusicPlayer_By_HQ\\res\\anim\\fade.xml"
+    }
+]

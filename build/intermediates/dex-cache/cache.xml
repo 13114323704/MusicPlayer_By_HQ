@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android_AS\AS_workplace\MusicPlayer_By_HQ\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="F:\Android_AS\AS_workplace\MusicPlayer_By_HQ\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_4085e6dab66db7f10710ef305e9e9e5c338ef445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_AS\AS_workplace\MusicPlayer_By_HQ\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6f5c974d31eea61d36cefc87ccbfe9a7cd6bae9">
+        <dex dex="F:\Android_AS\AS_workplace\MusicPlayer_By_HQ\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0fcf92578de6b415f0c4d788eadb9ad1a20ca91e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_AS\AS_workplace\MusicPlayer_By_HQ\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c8e7c8a85256fb718a67d3cfb91d901043374a">
+        <dex dex="F:\Android_AS\AS_workplace\MusicPlayer_By_HQ\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ffe0f6501f398d880039eaa0cce7bd5ddea5601a\classes.dex" />
+    </item>
+
+</items>
